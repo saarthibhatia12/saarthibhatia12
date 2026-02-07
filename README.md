@@ -70,8 +70,8 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saarthibhatia12&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=saarthibhatia12&theme=tokyonight&hide_border=true&border_radius=12" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saarthibhatia12&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=saarthibhatia12&theme=tokyonight&hide_border=true&border_radius=12" />
 
 <br/>
 
@@ -101,16 +101,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/saarthibhatia12/saarthibhatia12/output/github-snake-dark.svg)
-
-</div>
-
----
-
 <div align="center">
 
 ### 💬 Random Dev Quote
@@ -123,4 +113,3 @@
 **If you like my work, consider giving a ⭐!**
 
 </div>
-
