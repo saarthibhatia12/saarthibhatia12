@@ -65,19 +65,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Tech Stack | Description |
-|---------|-----------|-------------|
-| **[Focus](https://github.com/saarthibhatia12)** | Flask, Ollama, PyWebView, HTML/CSS/JS | Productivity suite for ADHD & neurotypical users — AI chatbot with RAG on custom docs (Llama 3 + LlamaIndex), minimalist email client, and streamlined to-do list |
-| **[ExamFlow](https://github.com/saarthibhatia12)** | PHP, MySQL, JavaScript, Node.js, Ethereum (Sepolia) | Secure online exam system with **NFT-based certificates** on blockchain, **AI-powered proctoring** (tab-switch & window-focus detection), and adaptive mock test generation |
-| **[OptiTrace](https://github.com/saarthibhatia12)** | Streamlit, TensorFlow, Scikit-learn | Interactive OTDR fault analysis dashboard — regression-based localization, reflectance/loss estimation, LightGBM/Random Forest models, and Plotly 2D/3D visualizations |
-
-</div>
-
----
 
 ## 📊 GitHub Stats
 
@@ -136,3 +123,4 @@
 **If you like my work, consider giving a ⭐!**
 
 </div>
+
