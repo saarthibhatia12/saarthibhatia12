@@ -79,27 +79,6 @@
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=saarthibhatia12&theme=tokyonight&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Saarthi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saarthibhatia12&theme=tokyo-night&hide_border=true&radius=12)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
 
 <div align="center">
 
@@ -113,3 +92,4 @@
 **If you like my work, consider giving a ⭐!**
 
 </div>
+
